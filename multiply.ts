@@ -4,3 +4,4 @@ function multiply(a:number,b:number)
    console.log("multiplymation of two number is",multiply);
 }
 multiply(10,20);
+console.log("Multiplication of two number code ")
